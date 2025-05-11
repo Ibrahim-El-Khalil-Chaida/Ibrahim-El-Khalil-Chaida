@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim El Khalil Chaida</h1>
-<h3 align="center">An Embedded Systems & AI Developer with hands-on hardware, real-time systems, and deep learning experience</h3>
+<h3 align="center">An Embedded Systems with hands-on hardware, real-time systems, and deep learning experience</h3>
 
 ---
 
